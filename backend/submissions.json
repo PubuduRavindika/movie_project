@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "Pubudu",
+        "last_name": "Ravindika",
+        "email": "iwpubuduravindika@gmail.com",
+        "telephone": "0719108259",
+        "message": "Hello",
+        "checkbox": "Yes"
+    },
+    {
+        "first_name": "test",
+        "last_name": "test",
+        "email": "test@gmail.com",
+        "telephone": "12345678",
+        "message": "test test test",
+        "checkbox": "Yes"
+    }
+]
